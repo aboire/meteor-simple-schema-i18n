@@ -1,3 +1,8 @@
+```diff
+- NOTE: This package is not maintained anymore.
+- If you want to help, please reach out to gwendall.esnault@gmail.com
+```
+
 Meteor Simple-Schema i18n
 =========================
 
@@ -21,6 +26,10 @@ The language code you should use to name new i18n.json files can be found in [th
 Credits
 -------
 
+[@microstudi](http://github.com/microstudi),
+[@StorytellerCZ](http://github.com/StorytellerCZ),
+[@jlourenco](http://github.com/jlourenco),
+[@cypa1](http://github.com/cypa1),
 [@maredudd](http://github.com/maredudd),
 [@kjetilge](http://github.com/kjetilge),
 [@Xiangshen-Meng](http://github.com/Xiangshen-Meng),
@@ -64,7 +73,7 @@ To do
 - [ ] Bosnian
 - [x] Bulgarian
 - [ ] Burmese
-- [ ] Catalan
+- [x] Catalan
 - [ ] Catalan (Balear)
 - [ ] Chinese
 - [x] Chinese (China)
@@ -72,7 +81,7 @@ To do
 - [x] Chinese (Taiwan)
 - [ ] Corsican
 - [ ] Croatian
-- [ ] Czech
+- [x] Czech
 - [ ] Danish
 - [x] Dutch
 - [ ] Dutch (Belgium)
@@ -131,9 +140,9 @@ To do
 - [ ] Pashto
 - [ ] Persian
 - [ ] Persian (Afghanistan)
-- [ ] Polish
+- [x] Polish
 - [x] Portuguese (Brazil)
-- [ ] Portuguese (Portugal)
+- [x] Portuguese (Portugal)
 - [ ] Punjabi
 - [ ] Rohingya
 - [ ] Romanian
